@@ -1,3 +1,6 @@
+
+![Screenshot 2024-12-22 204345](https://github.com/user-attachments/assets/46ce8d15-b065-4083-a22d-7dd26cc6b269)
+
 # Image Processing Application
 
 ## Overview
